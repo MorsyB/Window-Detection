@@ -21,22 +21,22 @@ def find_path(window_center, image_center):
                 print("GO Down")
             else:
                 if window_center[1] - image_center[1] < -50:
-                    print("GO up")
+                    print("GO UP")
                 else:
                     print("GO FORWARD")
 
 
-def old_algo():
-    cap = cv2.VideoCapture('video4.mp4')
+def navigate():
+    # cap = cv2.VideoCapture('video4.mp4')
     frames = []
-    i = 0
     while True:
         # Read a frame
-        _, frame = cap.read()
-        # Load the image
+        # _, frame = cap.read()
 
+        # Get the frame from the stream
         image = get_img()
 
+        # the center of the frame
         height, width = image.shape[:2]
         centerIMG = (int(width / 2), int(height / 2))
 
@@ -67,18 +67,17 @@ def old_algo():
             cv2.circle(image, centerIMG, 2, (255, 0, 0), -1)
             cv2.line(image, center, centerIMG, (255, 0, 0), 2)
 
+            # Give orders to the drone
             find_path(center, centerIMG)
 
             # Show the image
             cv2.imshow("Frame", image)
-            time.sleep(0.02)
 
             # Exit if the user presses the "q" key
             if cv2.waitKey(1) == ord("q"):
                 break
             frames.append(image)
-            i += 1
 
 
 if __name__ == '__main__':
-    old_algo()
+    navigate()
