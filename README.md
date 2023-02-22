@@ -41,3 +41,12 @@ The project was sponsored by Professor Dan Feldman, who provided guidance throug
 ##### Conclusion:
 In conclusion, the autonomous window detection and navigation system developed by the project team achieved the primary objective of detecting and navigating through windows using a Tello drone and computer vision techniques. However, the project encountered several challenges, including strong winds, low light conditions, and unexpected behavior of the drone in dark places. The project team addressed these challenges through rescheduling outdoor testing, modifying the image processing algorithm to account for low light conditions, and selecting a testing location with low windows to minimize the risk of damaging the drone. Despite these challenges, the system demonstrated promising results.
 The project team would like to thank Professor Dan Feldman for his support and guidance throughout the project.
+
+#### Algorithm demonstrated in images:
+[Binary Image] 
+[Drone's POV]
+[Drone in the room]
+[Picture of detected window in the second room (result pic)]
+
+#### Result demonstrations in videos:
+[Add links]
