@@ -43,10 +43,9 @@ In conclusion, the autonomous window detection and navigation system developed b
 The project team would like to thank Professor Dan Feldman for his support and guidance throughout the project.
 
 #### Algorithm demonstrated in images:
-[Binary Image] 
-[Drone's POV]
-[Drone in the room]
-[Picture of detected window in the second room (result pic)]
+![Binary](https://github.com/MorsyB/Window-Detection/blob/main/pic1.jpg)
+![Drone's POV](https://github.com/MorsyB/Window-Detection/blob/main/pic2.jpg)
+![Window Detected](https://github.com/MorsyB/Window-Detection/blob/main/pic3.jpg)
 
-#### Result demonstrations in videos:
-[Add links]
+#### Result demonstrations in video:
+https://drive.google.com/drive/u/0/folders/1DYlIIHqzztaNHb8dsNdMg-OjjPCVa8vz
