@@ -48,4 +48,4 @@ The project team would like to thank Professor Dan Feldman for his support and g
 ![Window Detected](https://github.com/MorsyB/Window-Detection/blob/main/pic3.jpg)
 
 #### Result demonstrations in video:
-https://drive.google.com/drive/u/0/folders/1DYlIIHqzztaNHb8dsNdMg-OjjPCVa8vz
+https://drive.google.com/file/d/1iObofW-VAu_DIGHDBK-QxEIJcuzBeNmF/view?usp=drivesdk
