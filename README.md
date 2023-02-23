@@ -1,7 +1,7 @@
 # Project Description: Autonomous System for Window Detection
 ## Student 1: Morsy Biadsy     ID:318241221
 ## Student 2: Muhammad Awawdi  ID:209319003
-Result Demonstrated in video: https://drive.google.com/drive/u/0/folders/1DYlIIHqzztaNHb8dsNdMg-OjjPCVa8vz
+Result Demonstrated in video: https://drive.google.com/file/d/1iObofW-VAu_DIGHDBK-QxEIJcuzBeNmF/view?usp=drivesdk
 
 ### Goal:
 The goal of this project is to develop an autonomous system that can detect windows using a Tello drone and navigate through them using computer vision techniques. This system will utilize advanced image processing algorithms to identify windows in a variety of environments and autonomously guide the drone through them.
